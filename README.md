@@ -36,7 +36,7 @@ I believe technology is not just about tools, but about solving real problems an
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode, intellij, bash,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode,bash,linux" />
 </p>
 
 ---
