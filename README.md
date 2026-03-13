@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&width=600&lines=Hi!+%F0%9F%91%8B;I'm+Marcelo!;Computer+Science+Student+%7C+Backend+Developer;Java+%E2%80%A2+Spring+%E2%80%A2+APIs+%E2%80%A2+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&width=750&lines=Hi!+%F0%9F%91%8B;I'm+Marcelo!;Computer+Science+Student+%7C+Backend+Developer;Java+%E2%80%A2+Spring+%E2%80%A2+APIs+%E2%80%A2+SQL)](https://git.io/typing-svg)
 ---
 
 ## 👨‍💻 About Me
